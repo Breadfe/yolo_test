@@ -1,3 +1,8 @@
+"""
+reference1 : https://webnautes.tistory.com/1851
+reference2 : https://velog.io/@junwoo0525/YOLOv8%EC%9D%84-OpenCV%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-%EB%8F%99%EC%9E%91%EC%8B%9C%ED%82%A4%EA%B8%B0
+"""
+
 import time
 import datetime # fps 계산을 위함
 
